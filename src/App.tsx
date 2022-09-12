@@ -1,5 +1,5 @@
-import React from "react";
-import { GlobalStyle } from "./styles/global";
+import React from 'react'
+import { GlobalStyle } from './styles/global'
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <h1>Hello Wor f fwe ld!</h1>
       <GlobalStyle />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
