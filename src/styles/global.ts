@@ -21,6 +21,7 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     body {
+      font-family: 'Poppins', sans-serif;
       background: var(--background);
       -webkit-font-smoothing: antialiased;
     }
